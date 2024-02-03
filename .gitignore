@@ -1,0 +1,5 @@
+# Ignores any changes to 2048-game dir
+2048-game/
+
+# Ignores changes to .txt files
+*.txt
